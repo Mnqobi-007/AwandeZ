@@ -6,13 +6,13 @@ DNS stands for **Domain Name System**. Think of it as the internet's phonebook.
 
 When you want to call someone, you use their name (like "Mom") instead of memorizing their phone number. Your phone then looks up that name and dials the right number. DNS does the same thing for websites.
 
-Instead of remembering complicated numbers like `192.168.1.1`, you just type something easy like `google.com` or `mnqobi-007.github.io`. DNS translates that human-friendly name into the computer-friendly IP address that tells your browser where to find the website.
+Instead of remembering complicated numbers like `192.168.1.1`, you just type something easy like `google.com` or `awandemz.netlify.app`. DNS translates that human-friendly name into the computer-friendly IP address that tells your browser where to find the website.
 
 ## What is a CNAME Record?
 
 A **CNAME** (Canonical Name) record is like a nickname or alias for a website.
 
-For example, if I own `awandezungu.com` but my website is hosted on GitHub Pages at `mnqobi-007.github.io`, I can create a CNAME record that tells the internet: "Whenever someone types `awandezungu.com`, send them to `mnqobi-007.github.io` instead."
+For example, if I own `awandezungu.com` but my website is hosted on GitHub Pages at `awandemz.netlify.app`, I can create a CNAME record that tells the internet: "Whenever someone types `awandezungu.com`, send them to `mnqobi-007.github.io` instead."
 
 CNAME records are useful because:
 - They let you use a custom domain name without moving your hosting
