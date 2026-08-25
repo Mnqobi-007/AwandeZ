@@ -184,4 +184,4 @@ blindly following a tutorial.
 
 Written by Awande Zungu for the FlyRank Internship Program – Phase Build (core)
 Live Portfolio: https://awandemz.netlify.app/
-Date: August 2026
+Date: 25 August 2026
